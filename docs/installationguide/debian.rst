@@ -140,7 +140,7 @@ Reload Apache to enable your changes and then start ZoneMinder.
     sudo systemctl reload apache2
     sudo systemctl start zoneminder
 
-You are now ready to go with ZoneMinder. Open a browser and type either ``localhost/zm`` one the local machine or ``{IP-OF-ZM-SERVER}/zm`` if you connect from a remote computer.
+You are now ready to go with ZoneMinder. Open a browser and type either ``localhost/zm`` on the local machine or ``{IP-OF-ZM-SERVER}/zm`` if you connect from a remote computer.
 
 
 Easy Way: Debian Jessie
